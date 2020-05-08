@@ -1,0 +1,28 @@
+Python
+This Project is based on codes
+This is the version 0.1
+An example
+
+```
+import codes
+code = codes.randoms.rande("Hello World!")
+print(code.encoded)
+print(code.decoded)
+#This will print the encoded and decoded version of code
+```
+
+
+classes and functions in project:
+
+randoms
+    rande(code, type_)
+    hsl()
+    rgb()
+    hexacolor()
+secret(code, mode_)
+euc
+
+regards,
+Tanmay
+
+    
