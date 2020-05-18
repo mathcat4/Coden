@@ -1,7 +1,7 @@
 #This is a project based on codes, secret codes...
 
 
-##Example:
+##Example:##
 
 ```python
 >>>import coden
