@@ -1,7 +1,7 @@
-#This is a project based on codes, secret codes...
+# This is a project based on codes, secret codes...
 
 
-##Example:##
+## Example:
 
 ```python
 >>>import coden
@@ -14,7 +14,7 @@ hello pypi
 
 ```
 
-##Way to install:##
+## Way to install:
 
 ```bash
 $ pip install coden
