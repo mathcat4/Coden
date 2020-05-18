@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+coden/__init__.py
+coden.egg-info/PKG-INFO
+coden.egg-info/SOURCES.txt
+coden.egg-info/dependency_links.txt
+coden.egg-info/not-zip-safe
+coden.egg-info/top_level.txt
